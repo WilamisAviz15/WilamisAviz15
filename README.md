@@ -4,7 +4,7 @@ I’m Wilamis Aviz, currently studying Computer Engineering at the Federal Unive
 
 ## My Github stats
   ![will GitHub stats](https://github-readme-stats.vercel.app/api?username=wilamisaviz15&show_icons=true&theme=dracula&&include_all_commits=true&count_private=true)
-  <br/>
+  <br/><br/>
   [![will langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilamisaviz15&layout=compact&theme=dark)](https://github.com/wilamisaviz15)
 
 ## Technologies I know
